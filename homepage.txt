@@ -1,7 +1,11 @@
+NAVIGATION
+==========
+[Home] [About] [Contact]
+
 HOMEPAGE
 ========
 
-Welcome to Our Webste
+Welcome to Our Website
 
 This is the home page for our project.
 
@@ -9,3 +13,4 @@ This is the home page for our project.
 FOOTER
 Contact: info@example.com
          555-123-4567
+Copyright 2025 Our Company. All rights reserved.
