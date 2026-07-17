@@ -1,3 +1,7 @@
+NAVIGATION
+==========
+[Home] [About] [Contact]
+
 HOMEPAGE
 ========
 
