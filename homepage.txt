@@ -5,11 +5,11 @@ NAVIGATION
 HOMEPAGE
 ========
 
-Welcome to Our Webste
+Welcome to Our Website
 
 This is the home page for our project.
 
 ---
 FOOTER
 Contact: info@example.com
-Copyright 2026
+Copyright 2025 Our Company. All rights reserved.
